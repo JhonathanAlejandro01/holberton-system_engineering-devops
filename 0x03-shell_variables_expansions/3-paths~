@@ -1,0 +1,2 @@
+#!/bin/bash
+find $PACH -type d | wc -l
