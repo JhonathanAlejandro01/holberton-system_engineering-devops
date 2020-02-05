@@ -1,5 +1,5 @@
-total 124
-drwxrwxr-x 2 vagrant vagrant 4096 Feb  5 00:10 .
+total 120
+drwxrwxr-x 2 vagrant vagrant 4096 Feb  5 00:25 .
 drwxrwxr-x 7 vagrant vagrant 4096 Feb  3 16:28 ..
 -rwxrw-r-- 1 vagrant vagrant   30 Feb  2 22:47 0-hello_world
 -rwxrw-r-- 1 vagrant vagrant   23 Feb  3 04:48 10-no_more_js
@@ -22,13 +22,12 @@ drwxrwxr-x 7 vagrant vagrant 4096 Feb  3 16:28 ..
 -rwxrw-r-- 1 vagrant vagrant   29 Feb  3 02:59 5-firstlines
 -rwxrw-r-- 1 vagrant vagrant   38 Feb  4 23:07 6-third_line
 -rwxrw-r-- 1 vagrant vagrant   88 Feb  4 23:48 7-file
--rwxrw-r-- 1 vagrant vagrant   26 Feb  5 00:03 #8-cwd_state#
--rwxrw-r-- 1 vagrant vagrant   45 Feb  5 00:10 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   45 Feb  5 00:25 8-cwd_state
 -rwxrw-r-- 1 vagrant vagrant   38 Feb  3 04:46 9-duplicate_last_line
 -rw-rw-r-- 1 vagrant vagrant   44 Feb  4 23:43 \ \*\'Holberton
 -rw-rw-r-- 1 vagrant vagrant   43 Feb  3 04:11 \*\'Holberton
 -rw-rw-r-- 1 vagrant vagrant   17 Feb  4 23:48 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
 -rw-rw-r-- 1 vagrant vagrant    0 Feb  3 03:43 iacta
--rw-rw-r-- 1 vagrant vagrant    0 Feb  5 00:10 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  5 00:25 ls_cwd_content
 -rw-rw-r-- 1 vagrant vagrant   38 Feb  2 22:49 README.md
 -rw-rw-r-- 1 vagrant vagrant    6 Feb  4 23:40 yes
