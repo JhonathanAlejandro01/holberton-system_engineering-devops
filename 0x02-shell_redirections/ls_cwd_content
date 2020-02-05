@@ -1,1 +1,34 @@
-#ls -la
+total 124
+drwxrwxr-x 2 vagrant vagrant 4096 Feb  5 00:10 .
+drwxrwxr-x 7 vagrant vagrant 4096 Feb  3 16:28 ..
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  2 22:47 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   23 Feb  3 04:48 10-no_more_js
+-rwxrw-r-- 1 vagrant vagrant   36 Feb  3 04:58 11-directories
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:51 12-newest_files
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:52 13-unique
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:52 14-findthatword
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:52 15-countthatword
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:52 16-whatsnext
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:53 17-hidethisword
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:53 18-letteronly
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:53 19-AZ
+-rwxrw-r-- 1 vagrant vagrant   28 Feb  3 00:44 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:54 20-hiago
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:55 21-reverse
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  3 00:55 22-users_and_homes
+-rwxrw-r-- 1 vagrant vagrant   28 Feb  3 01:51 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Feb  3 02:38 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   34 Feb  4 23:37 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   29 Feb  3 02:59 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   38 Feb  4 23:07 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   88 Feb  4 23:48 7-file
+-rwxrw-r-- 1 vagrant vagrant   26 Feb  5 00:03 #8-cwd_state#
+-rwxrw-r-- 1 vagrant vagrant   45 Feb  5 00:10 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   38 Feb  3 04:46 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant   44 Feb  4 23:43 \ \*\'Holberton
+-rw-rw-r-- 1 vagrant vagrant   43 Feb  3 04:11 \*\'Holberton
+-rw-rw-r-- 1 vagrant vagrant   17 Feb  4 23:48 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  3 03:43 iacta
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  5 00:10 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant   38 Feb  2 22:49 README.md
+-rw-rw-r-- 1 vagrant vagrant    6 Feb  4 23:40 yes
