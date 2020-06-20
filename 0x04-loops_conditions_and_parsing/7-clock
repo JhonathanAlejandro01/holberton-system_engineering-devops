@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# This script is displaying numbers from 1 to 20 and it show line 5
-#"bad luck from China" line 10 "bad luck from Japan" and line 18
-#"bad luck from Italy"
-i=1
-while [ $i -le 20 ];
+#This script is displaying the time for 12 hours and 59 minutes
+HOUR=0
+MIN=1
+while [ $HOUR -le 12 ];
 do
-    echo "$i"
-    case "$i" in
-	4) echo "bad luck from China";;
-        9) echo "bad luck from Japan";;
-        17) echo "bad luck from Italy";;
-    esac
-    let i=i+1
+    echo "Hour: $HOUR"
+    let MIN=1
+    while [ $MIN -le 59 ];
+    do
+	echo "$MIN"
+	let MIN=MIN+1
+    done
+    let HOUR=HOUR+1
 done
