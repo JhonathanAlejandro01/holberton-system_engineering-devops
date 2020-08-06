@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# return a page containing Hello Holberton when querying the root of it.
-sudo server apache2 start
+# debugging project, you will need to get Apache to run on the conteiner.
+sudo service apache2 start
