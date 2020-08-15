@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Install load balancer HAproxy with version 1.5 or greater
+apt-get -y update
+apt-get install haproxy -y
+
+# Set ENABLED to 1 if you want the init script to start haproxy.
+echo "ENABLED=1" >> /etc/default/haproxy
+
+echo -e "\nlisten 1538-lb-01\n\tbind *:80\n\tmode http\n\tstats enable\n\tbalance roundrobin\n\toption forwardfor\n\tserver 1538-web-01 34.75.208.96:80 check\n\tserver 1538-web-02 3.90.199.217:80 check\n" >> /etc/haproxy/haproxy.cfg
+
+sudo service haproxy restart
